@@ -3,15 +3,19 @@
 # Наш DevOps проект
 ## Описание проекта
 Здесь общее описание...
+
 ## Команда
-Здесь список участников...
+Asel - cybersecurity specialist 
 Aizhan Esenbekova - DevOps Engineer
+
 ## Стек технологий
-Здесь технологии...
-Docker[cite: 1]
-- Linux[cite: 1]
+- Docker
+- Linux
+
+## Стек технологий
+Linux, Docker
+
 ## Инструкции по запуску
-Здесь шаги для запуска...
-1. Клонировать репозиторий[cite: 1]
-2. Собрать контейнер: docker build -t my-app .
-3. Запустить проект: docker run -p 8080:8080 my-app[cite: 1]
+1. Склонировать репозиторий: `git clone https://github.com/asellai/team-docs-groupabc.git`
+2. Собрать Docker-образ: `docker build -t team-app .`
+3. Запустить контейнер: `docker run -p 8080:8080 team-app`
