@@ -2,18 +2,17 @@
 
 # Наш DevOps проект
 ## Описание проекта
-Здесь общее описание...
+DevOps проект группы ABC 
 
 ## Команда
-Asel - cybersecurity specialist 
+Asel Aibek kyzy - Cybersecurity Specialist 
 Aizhan Esenbekova - DevOps Engineer
 
 ## Стек технологий
 - Docker
 - Linux
 
-## Стек технологий
-Linux, Docker
+
 
 ## Инструкции по запуску
 1. Склонировать репозиторий: `git clone https://github.com/asellai/team-docs-groupabc.git`
