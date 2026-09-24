@@ -1,4 +1,4 @@
-# -team-docs-groupabc
+# team-docs-groupabc
 
 # Наш DevOps проект
 ## Описание проекта
